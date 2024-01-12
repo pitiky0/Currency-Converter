@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Convertisseur de devise</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="currency_converter">Currency Converter</string>
+
+    <string-array name="currencies">
+        <item>EUR</item>
+
+        <item>GBP</item>
+        <item>USD</item>
+        <item>DKK</item>
+
+        <item>SEK</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>JPY</item>
+
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>USD</item>
+
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+
+        <item>SEK</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>JPY</item>
+
+    </string-array>
+</resources>
